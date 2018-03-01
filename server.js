@@ -42,7 +42,7 @@ var htmlTemplate= `
     </head>
     <body style="background-color:powderblue">
     <div class="home">
-        <a href="\">Home</a>
+        <a href="/">Home</a>
     </div>
     <hr>
     <div class="date">
