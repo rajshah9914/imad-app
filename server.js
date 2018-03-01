@@ -20,7 +20,7 @@ var past={
             12th result:92%
             </p>
             <p>
-            <iframe width="420" height="345" src="https://www.youtube.com/embed/6q3wAHMJqm4>
+            <iframe width="420" height="345" src="https://www.youtube.com/embed/6q3wAHMJqm4">
             </iframe>
             </p>
             <p>
