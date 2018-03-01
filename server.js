@@ -10,7 +10,7 @@ app.get('/', function (req, res) {
 });
 
 app.get('/past', function (req, res){
-   res.sendFile('My 10th marks are 96.2%'); 
+   res.sendFile(path.join(__dirname, 'ui', 'past.html')); 
 });
 app.get('/ui/style.css', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'style.css'));
