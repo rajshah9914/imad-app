@@ -22,4 +22,11 @@ body {
 .profile{
     text-align:center;
 }
-
+.past{
+            margin: 0 auto;
+            font-family:sans-serif;
+            text-align:center;
+ }
+.date{
+            text-align:right;
+}
